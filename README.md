@@ -1,2 +1,2 @@
-# promo3-example-portfolio
+# Example Portfolio
 An example portfolio using git and gitignore.
