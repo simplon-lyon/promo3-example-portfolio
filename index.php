@@ -17,9 +17,15 @@ foreach($all as $f) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Louis AROD</title>
+    <style>
+        .title {
+            background-color: black;
+            color: white;
+        }
+    </style>
 </head>
 <body>
-    <h1>Louis AROD</h1>
+    <h1 class="title">Louis AROD</h1>
     <p>Formateur de la promo3. :D</p>
     <h2>Projets</h2>
     <ul>
